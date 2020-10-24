@@ -1,0 +1,3 @@
+[submodule "repo/pmtk3"]
+	path = repo/pmtk3
+	url = https://github.com/probml/pmtk3.git
