@@ -1,3 +1,9 @@
 [submodule "repo/pmtk3"]
 	path = repo/pmtk3
 	url = https://github.com/probml/pmtk3.git
+[submodule "repo/pyprobml"]
+	path = repo/pyprobml
+	url = https://github.com/probml/pyprobml.git
+[submodule "repo/ML-From-Scratch"]
+	path = repo/ML-From-Scratch
+	url = https://github.com/eriklindernoren/ML-From-Scratch.git
